@@ -1,0 +1,12 @@
+{
+  "name": "Blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nsns0101/TS_blockchain.git",
+  "author": "nsns0101 <nsns0101@naver.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
