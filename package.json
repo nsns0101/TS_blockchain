@@ -6,7 +6,7 @@
   "author": "nsns0101 <nsns0101@naver.com>",
   "license": "MIT",
   "scripts": {
-    "start": "tsc-watch --onSucess \"node dist/index.ts\" "
+    "start": "tsc-watch --onSuccess \"node dist/index.js\" "
   },
   "devDependencies": {
     "@types/node": "^17.0.21",
